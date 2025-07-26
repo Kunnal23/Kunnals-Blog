@@ -119,6 +119,7 @@ VITE_FIREBASE_API_KEY=yourFirebaseApiKey
 [kantkunnal2311@gmail.com](mailto:kantkunnal2311@gmail.com)
 
 ## 🖼️ Screenshots
+<div style="display: flex; gap: 20px;">
 <img width="1910" height="1014" alt="Screenshot 2025-07-26 155734" src="https://github.com/user-attachments/assets/7b57e5e3-a496-4e7b-86ff-b34cb4307000" />
 <br>
 <img width="1810" height="857" alt="Screenshot 2025-07-26 160154" src="https://github.com/user-attachments/assets/ca0f7b1f-a12d-4702-9696-b4a188a51ef2" />
@@ -134,4 +135,4 @@ VITE_FIREBASE_API_KEY=yourFirebaseApiKey
 <img width="1866" height="1023" alt="Screenshot 2025-07-26 155802" src="https://github.com/user-attachments/assets/b732c515-9492-4d07-a296-c2b35080ca1e" />
 <br>
 <img width="1861" height="999" alt="Screenshot 2025-07-26 155747" src="https://github.com/user-attachments/assets/01aaab8c-0d85-4214-8c2f-68743935eb49" />
-
+</div>
