@@ -10,7 +10,8 @@ import postRoutes from './routes/post.route.js';
 import commentRoutes from './routes/comment.route.js';
 import cookieParser from 'cookie-parser';
 import path from 'path';
-import cors from "cors";
+
+
 
 mongoose
   .connect(process.env.MONGO)
@@ -25,12 +26,6 @@ const __dirname = path.resolve();
 
 const app = express();
 
-app.use(
-	cors({
-		origin: "https://your-netlify-site.netlify.app", // frontend origin
-		credentials: true,
-	})
-);
 app.use(express.json());
 app.use(cookieParser());
 
