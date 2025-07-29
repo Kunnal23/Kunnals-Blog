@@ -1,4 +1,4 @@
-# Blog App- Fullstack MERN Blog Platform
+# Kunnal's Blog - Fullstack MERN Blog Platform
 
 
 This is a full-stack Blog Web Application built with the MERN stack (MongoDB, Express.js, React, Node.js). It offers both user and admin functionality, making it suitable for personal blogging or managing a multi-author content platform.
